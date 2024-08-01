@@ -1,0 +1,44 @@
+La Propuesta de Negocio (Alcance del Proyecto)
+
+Delimitar (Acotar)
+
+RelaxGo Travel requiere un sistema de información transaccional que permita gestionar el proceso relacionado con las reservas de viajes realizados por parte de los clientes(turistas).
+
+1. Nombre: RelaxGo travel
+2. Proceso: Sistema de gestion de reserva de viajes
+3. Transaccion Producto/Servicio: Servicio
+4. Actores: Cliente - Agente de Viajes
+5. Problema a Resolver: Pérdidas de Reservas de Viajes
+6. Proposito Objetivo: Sistematizar las Reservas
+7. Escenario Actual:
+El cliente ingresa a la tienda fisica relaxGo Travel y procede a ser atendido por nuestro agente de viajes el cual le facilita 
+el proceso de reserva, que incluye: selecciona el destino y el tipo de viaje (vacaciones, negocios, aventura, etc.)
+luego selecciona la cantidad de viajeros, las fechas de viaje y procede a reservar. El agente de viajes consulta la reserva realizada por el cliente 
+y procede a registrar la transacción.
+8. Escenario Futuro:
+En un futuro cercano, el sistema de gestión de reservas de viajes de relaxGo Travel se actualizará implementando la modalidad virtual para ofrecer una experiencia más
+personalizada y eficiente tanto para los clientes como para los agentes de viajes. teniendo en cuenta factores como estos para la proyección del escenario futuro:
+Personalización del Cliente:Guardará el historial de viajes y las preferencias para ofrecer recomendaciones personalizadas.
+Automatización de Reservas: Confirmará automáticamente la disponibilidad y enviará notificaciones y recordatorios.
+Integración con Proveedores:Conectará directamente con aerolíneas, hoteles y proveedores para tarifas y disponibilidades exclusivas.
+Soporte Multicanal:Ofrecerá atención al cliente 24/7 a través de un chatbot y una aplicación móvil.
+Informes y Análisis:Proporcionará análisis detallados sobre tendencias de viajes y preferencias de clientes.
+9. Objetos de Alto Valor:
+Geografia: la agencia tiene un alcance a nivel nacional, sin embargo ofrece viajes y destinos a lugares internacionales,
+promoviendo el turismo dentro y fuera de nuestra region colombiana fomentando viajes de clientes nacionales a otros 
+ambientes y ademas visitas de extrangeros a nuestro pais.
+Empresa: Ubicada en Envigado.
+Cliente: Datos Personales: Nombre, dirección, teléfono, correo electrónico, fecha de nacimiento, estado civil, género.
+Preferencias de Viaje: Tipo de viajes favoritos, destinos preferidos, actividades favoritas.
+Historial de Viajes: Registro de viajes anteriores con relaxGo Travel.
+Transacción:Detalles de la Reserva: Fecha de reserva, fecha del viaje, destino, número de viajeros, tipo de viaje.
+Servicios Incluidos: Vuelos, alojamiento, transporte terrestre, actividades turísticas, seguros de viaje.
+Estado de la Reserva: Confirmada, pendiente, cancelada.
+Costos y Pagos: Coste total del viaje, pagos realizados, pagos pendientes, descuentos aplicados.
+Comentarios y Notas: Comentarios adicionales de los clientes o agentes de viajes, solicitudes especiales.
+empleados: Agentes de viajes, soporte al cliente, administración.
+Sucursales y Oficinas: Envigado, Antioquia, colombia.
+
+
+
+
